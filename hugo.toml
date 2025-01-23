@@ -1,4 +1,4 @@
-baseURL = "http://nav.xshan.top"
+baseURL = "http://xjasonshane.github.io/nav/"
 languageCode = "zh-CN"
 title = "JasonShane 导航站"
 theme = "hugo-webstack"
